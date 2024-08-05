@@ -1,4 +1,4 @@
-# Projeto utilizado para aprender sobre http requests no Angular
+# Projeto utilizado para aprender sobre http requests no Angular.
 
 ### Conceitos aprendidos:
 
